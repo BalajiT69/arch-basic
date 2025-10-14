@@ -20,7 +20,6 @@ dnsutils
 dolphin
 dolphin-plugins
 dosfstools
-downgrade
 easyeffects
 efitools
 ethtool
@@ -57,10 +56,10 @@ konsole
 ksystemlog
 libgsf
 libopenraw
-Libreoffice-fresh
+libreoffice-fresh
 libva-utils
 libwnck3
-Lsp-plugins-lv2
+lsp-plugins-lv2
 lsscsi
 mda.lv2
 mesa
@@ -144,3 +143,12 @@ xorg-xwayland
 xterm
 xvidcore
 yelp
+snapper
+snap-pac
+btrfs-assistant
+kwalletmanager
+apparmor
+python-notify2
+tk
+man-db
+manpages
